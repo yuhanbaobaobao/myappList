@@ -1,0 +1,29 @@
+
+.Hover {
+  position: relative;
+  height: 14rem;
+}
+.Hover:hover > div > button {
+  cursor: pointer;
+  display: inline;
+}
+button {
+  display: none;
+  position: absolute;
+  bottom: 0%;
+  left: 0%;
+  width: 100%;
+}
+.List {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+li {
+  display: inline;
+}
+
+li > div {
+  display: inline-block;
+}
+
