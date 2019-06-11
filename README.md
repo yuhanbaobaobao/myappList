@@ -1,3 +1,15 @@
+
+ 
+mock backend in file server
+  please go under server file and run server using: 
+    node server.js 
+    
+React code in file src
+  start app using: 
+    npm start
+    
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
